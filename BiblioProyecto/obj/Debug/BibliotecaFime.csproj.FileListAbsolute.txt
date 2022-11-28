@@ -1,0 +1,37 @@
+D:\Interfaz Hombre-Maquina\BibliotecaFime\bin\Debug\BibliotecaFime.exe.config
+D:\Interfaz Hombre-Maquina\BibliotecaFime\bin\Debug\BibliotecaFime.exe
+D:\Interfaz Hombre-Maquina\BibliotecaFime\bin\Debug\BibliotecaFime.pdb
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.csproj.AssemblyReference.cache
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.csproj.SuggestedBindingRedirects.cache
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Form1.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Libros.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Menu.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Prestamos.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Properties.Resources.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.Registro.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.RegistroDocente.resources
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.csproj.GenerateResource.cache
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.csproj.CoreCompileInputs.cache
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.exe
+D:\Interfaz Hombre-Maquina\BibliotecaFime\obj\Debug\BibliotecaFime.pdb
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\BibliotecaFime.exe.config
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\BibliotecaFime.exe
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\BibliotecaFime.pdb
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.AssemblyReference.cache
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.SuggestedBindingRedirects.cache
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Form1.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Libros.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Menu.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Prestamos.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Properties.Resources.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.Registro.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.RegistroDocente.resources
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.GenerateResource.cache
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.CoreCompileInputs.cache
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.exe
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.pdb
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\BouncyCastle.Crypto.dll
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\itextsharp.dll
+D:\Tecnologias de Informacion\BiblioProyecto\bin\Debug\itextsharp.xml
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.ResolveComReference.cache
+D:\Tecnologias de Informacion\BiblioProyecto\obj\Debug\BibliotecaFime.csproj.CopyComplete
